@@ -1,6 +1,8 @@
 # KOF XIII Global Match Rollback Enhanced
 Projeto de melhoria do rollback netcode do KOF XIII
 
+<img width="1280" height="600" alt="image" src="https://github.com/user-attachments/assets/da0f5d28-1bb3-4666-8e36-76c9c482b295" />
+
 Como usar
 ---------
 - Execute o arquivo com o jogo fechado, ele abre o jogo pela Steam.
