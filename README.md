@@ -91,3 +91,32 @@ Dicas
 - Jogue com cabo de rede: no Wi-Fi o jogo pode travar alguns segundos com "sincronizando...", e nenhum programa resolve isso.
 - O antivírus pode reclamar. Se isso acontecer, libere a pasta do Rollback no antivírus.
 - Em tela cheia exclusiva o HUD e o lobby não aparecem: use Windowed Fullscreen.
+
+# AVISO LEGAL
+
+- Projeto de fã, gratuito e independente. Não é afiliado, patrocinado nem aprovado pela SNK
+  (dona de The King of Fighters XIII), pela Valve (Steam) ou por qualquer outra empresa ligada
+  ao jogo. Nomes, marcas e imagens do jogo pertencem aos seus donos.
+
+- É preciso ter o KOF XIII Global Match original, comprado na Steam. O Rollback não contém
+  nem distribui o jogo e não serve para jogar sem ele.
+
+- O programa foi feito a partir do estudo de como o jogo funciona no PC (engenharia reversa),
+  para melhorar a conexão nas partidas online e oferecer ferramentas para o treino e o replay.
+  Ele não altera os arquivos instalados do jogo: as mudanças ficam na memória enquanto o
+  Rollback está aberto e somem quando ele fecha.
+
+- Não é trapaça: no online o Rollback mexe só na conexão, igual para os dois jogadores, e a
+  ferramenta de treino fica desligada.
+
+- Sua conta Steam: o Rollback nunca pede nem vê a sua senha. Do seu PC ele lê apenas o seu
+  SteamID e o seu nome na Steam.
+
+- O que vai para o servidor do lobby: SteamID, nome na Steam, avatar escolhido, país
+  (estimado pela conexão), cabo ou Wi-Fi, versão do programa, ping, resultados e personagens
+  das partidas e as mensagens do chat. Os logs só são enviados quando você clica em
+  "enviar logs". Esses dados servem apenas para o lobby funcionar e para corrigir problemas.
+
+- Programas de terceiros podem não ser permitidos pelos termos de uso do jogo ou da Steam.
+  Use por sua conta e risco: o Rollback é oferecido como está, sem garantia, e o autor não se
+  responsabiliza por problemas no jogo, no PC ou na conta.
